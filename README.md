@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Guru-Leo-Dev
 - 👀 I’m interested in </>
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning Microservices Architecture
 - 💞️ Currently debugging reality... Please stand by
 - 📫 How to reach me 🚀 https://www.instagram.com/_guruleo_/
 
