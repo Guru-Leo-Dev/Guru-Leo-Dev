@@ -38,13 +38,13 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_guruleo_/)
 
 ---
-/*
+<!---
 ### **📊 GitHub Stats**  
 ![Guru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guru-Leo-Dev&show_icons=true&theme=radical)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guru-Leo-Dev&layout=compact&theme=radical)  
-*/
 ---
+--->
 
 ### **💡 Philosophy**  
 > *"First, solve the problem. Then, write the code."*  
