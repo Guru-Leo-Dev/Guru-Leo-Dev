@@ -1,5 +1,5 @@
 # 🚀 **Hey, I'm Guru Leo**  
-### **Full-Stack Developer** | **Java • Spring Boot • React • Next.js**  
+### **Full-Stack Software Developer** | **Java • Spring Boot • React • Next**  
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=Microservices+Enthusiast;Debugging+Reality+%F0%9F%98%8E;Clean+Code+Advocate" alt="Typing Animation" />
