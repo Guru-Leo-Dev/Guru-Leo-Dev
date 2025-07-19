@@ -1,8 +1,8 @@
 # 🚀 **Hey, I'm Guru Leo**  
 ### **Full-Stack Software Developer** | **Java • Spring Boot • React • Next**  
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=Microservices+Enthusiast;Debugging+Reality+%F0%9F%98%8E;Clean+Code+Advocate" alt="Typing Animation" />
+<div align="">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=%E2%9A%A1+Booting+into+prod;%F0%9F%8D%9D+No+spaghetti+code+(tonight);%F0%9F%9B%A0%EF%B8%8F+Systems+that+barely+crash" alt="Typing Animation" />
 </div>
 
 ---
@@ -27,9 +27,9 @@
 ---
 
 ### **🔥 Currently**  
-- **Learning:** Event-Driven Architecture, Kubernetes, Kafka  
-- **Building:** Scalable microservices with Spring Cloud  
-- **Debugging:** Reality (it’s a feature, not a bug)  
+- 🧠 Deep-diving into event-driven systems with Kafka & Kubernetes
+- 🚀 Building cloud-native microservices with Spring Cloud
+- 🪲 Debugging reality — it's not a bug, it's a lifestyle
 
 ---
 
@@ -43,8 +43,16 @@
 ![Guru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guru-Leo-Dev&show_icons=true&theme=radical)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guru-Leo-Dev&layout=compact&theme=radical)  
----
 --->
+---
+### 🚧 Featured Projects
+
+🔗 [**Oracle ERP Integration Tool**](https://github.com/Guru-Leo-Dev/orafin-integration)  
+⤷ Spring Boot + Oracle DB + Scheduler for auto-processing interface tables
+
+🔗 [**Full-Stack Auth App**](https://github.com/Guru-Leo-Dev/fullstack-auth)  
+⤷ React + Spring Security with JWT, dark/light theme toggle
+
 
 ### **💡 Philosophy**  
 > *"First, solve the problem. Then, write the code."*  
