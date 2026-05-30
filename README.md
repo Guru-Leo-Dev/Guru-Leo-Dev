@@ -1,4 +1,4 @@
-<div align="center">
+_<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Guru%20Leo&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Engineer%20%E2%86%92%20AI%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
@@ -135,9 +135,17 @@ open_to     : Full-time roles · Freelance · AI/Backend collabs
 
 <div align="center">
 
+<!-- 
   <img src="https://github-readme-stats.vercel.app/api?username=Guru-Leo-Dev&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=22d3ee&text_color=ffffff" height="180"/>
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guru-Leo-Dev&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=ffffff" height="180"/>
+-->
+
+<!-- GitHub Stats — using github-stats-alpha (more stable) -->
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Guru-Leo-Dev&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=22d3ee&text_color=ffffff)
+
+<!-- Top Languages -->
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Guru-Leo-Dev&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=ffffff)
 
 </div>
 
@@ -174,3 +182,4 @@ open_to     : Full-time roles · Freelance · AI/Backend collabs
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
 </div>
+_
