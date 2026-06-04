@@ -149,9 +149,9 @@ open_to     : Full-time roles · Freelance · AI/Backend collabs
 
 </div>
 
-<div align="center">
-  ![GitHub Streak](https://streak-stats.demolab.com?user=Guru-Leo-Dev&theme=tokyonight)
-</div>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Guru-Leo-Dev&theme=tokyonight)
+
 
 ---
 
