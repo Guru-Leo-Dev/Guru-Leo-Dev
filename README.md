@@ -135,11 +135,11 @@ open_to     : Full-time roles · Freelance · AI/Backend collabs
 
 <div align="center">
 
-<!-- 
+
   <img src="https://github-readme-stats.vercel.app/api?username=Guru-Leo-Dev&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=22d3ee&text_color=ffffff" height="180"/>
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guru-Leo-Dev&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=ffffff" height="180"/>
--->
+
 
 <!-- GitHub Stats — using github-stats-alpha (more stable) -->
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Guru-Leo-Dev&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=22d3ee&text_color=ffffff)
