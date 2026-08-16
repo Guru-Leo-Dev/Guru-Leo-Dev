@@ -134,19 +134,7 @@ open_to     : Full-time roles · Freelance · AI/Backend collabs
 ## 📊 GitHub Stats
 
 <div align="center">
-
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Guru-Leo-Dev&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=22d3ee&text_color=ffffff" height="180"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guru-Leo-Dev&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=ffffff" height="180"/>
-
-
-<!-- GitHub Stats — using github-stats-alpha (more stable) -->
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Guru-Leo-Dev&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=22d3ee&text_color=ffffff)
-
-<!-- Top Languages -->
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Guru-Leo-Dev&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=ffffff)
-
+  
 </div>
 <div align="center"> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guru-Leo-Dev&theme=tokyonight&hide_border=true&background=0d1117&ring=22d3ee&fire=ff6b6b&currStreakLabel=22d3ee" width="70%"/> 
