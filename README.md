@@ -27,9 +27,9 @@
 ## `$ who am i`
 
 ```yaml
-name        : Guru Leo (Guruprakash)
+name        : Guru Leo (Guruprakash K)
 role        : Full-Stack Developer → AI Engineer
-location    : India 🇮🇳
+location    : Coimbatore, India 🇮🇳
 focus       : Cloud-Native Systems · Event-Driven Architecture · AI Integration
 philosophy  : "First, solve the problem. Then, write the code."
 currently   : Learning to make machines smarter 🤖
