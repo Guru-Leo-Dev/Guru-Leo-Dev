@@ -142,20 +142,6 @@ open_to     : Full-time roles · Freelance · AI/Backend collabs
 
 ---
 
-## 💡 Dev Philosophy
-
-> *"First, solve the problem. Then, write the code."*
-
-| Principle | What it means to me |
-|-----------|---------------------|
-| 🧩 **Systems thinking** | Design for failure. Build for scale. |
-| 🧪 **Test before ship** | If it's not tested, it's already broken. |
-| 📦 **Small, sharp services** | One job. Done right. Deployed anywhere. |
-| 🤖 **AI-augmented dev** | Use AI to ship faster — not to think less. |
-| 🔁 **Continuous learning** | Legacy code was once cutting-edge. Stay curious. |
-
----
-
 <div align="center">
 
 ### 👋 Let's Build Something Extraordinary
