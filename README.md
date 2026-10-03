@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Guru%20Leo&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Engineer%20%E2%86%92%20AI%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:022c22,50:065f46,100:0f766e&height=200&section=header&text=Guru%20Leo&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Java%20%C2%B7%20Microservices%20%C2%B7%20System%20Design&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Building+cloud-native+systems;%F0%9F%A4%96+Transitioning+into+AI+Engineering;%E2%9A%A1+Java+%7C+Spring+Boot+%7C+React+%7C+Next.js;%F0%9F%90%B3+Docker+%E2%86%92+K8s+%E2%86%92+AWS+%E2%86%92+%E2%98%95;%F0%9F%94%A5+Kafka+streams+%26+event-driven+arch" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=34D399&center=true&vCenter=true&width=650&lines=%F0%9F%8F%9B%EF%B8%8F+Designing+systems+that+scale+by+design;%E2%98%95+Java+%7C+Spring+Boot+%7C+Spring+Cloud;%F0%9F%A7%A9+Monolith+%E2%86%92+Microservices+%E2%86%92+Production;%F0%9F%93%A1+Kafka+streams+%26+event-driven+architecture;%F0%9F%A7%A0+Sprinkling+AI+on+solid+backends" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Guru-Leo-Dev&label=Profile+Views&color=22d3ee&style=for-the-badge" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Guru-Leo-Dev&label=Profile+Views&color=10b981&style=for-the-badge" alt="profile views"/>
 </div>
 
 ---
@@ -30,10 +30,10 @@
 name        : Guru Leo (Guruprakash K)
 role        : Full-Stack Developer → AI Engineer
 location    : Coimbatore, India 🇮🇳
-focus       : Cloud-Native Systems · Event-Driven Architecture · AI Integration
+focus       : System Design · Microservices · Java · Event-Driven Architecture
 philosophy  : "First, solve the problem. Then, write the code."
-currently   : Learning to make machines smarter 🤖
-open_to     : Full-time roles · Freelance · AI/Backend collabs
+currently   : Making solid backends a little smarter 🤖
+open_to     : Full-time roles · Freelance · Backend / AI collabs
 ```
 
 ---
@@ -84,12 +84,17 @@ open_to     : Full-time roles · Freelance · AI/Backend collabs
 
 ## 🔥 What I'm Up To
 
-```
-🧠  Deep-diving into LLMs, RAG pipelines & AI agent frameworks
-⚡  Architecting event-driven systems with Kafka + Kubernetes
-🌐  Shipping cloud-native microservices via Spring Cloud + AWS
-🔬  Exploring LangChain, vector databases & prompt engineering
-🪲  Debugging reality — it's not a bug, it's a feature request
+```java
+public class GuruLeo {
+
+    void currentlyBuilding() {
+        designSystems("that survive Black Friday traffic");   // 🏛️ system design first
+        splitMonolith().into(microservices);                  // 🧩 Gateway · Eureka · Config Server
+        master("Java 21 · Spring Boot 3 · Spring Cloud");     // ☕ the JVM is home
+        connect(services).via("Kafka · WebSockets");          // 📡 async by default
+        addAI("RAG · LangChain · LLM APIs");                  // 🧠 just a dash, on solid foundations
+    }
+}
 ```
 
 ---
@@ -98,31 +103,34 @@ open_to     : Full-time roles · Freelance · AI/Backend collabs
 
 <table>
   <tr>
-    <td width="50%">
-      <h3>🔗 Oracle ERP Integration Tool</h3>
+    <td width="50%" valign="top">
+      <h3>🛋️ Oakhaven — Furniture E-Commerce Microservices</h3>
       <p>
-        Enterprise-grade integration layer built with <strong>Spring Boot + Oracle DB</strong>. Handles automated scheduler jobs for processing interface tables, with robust error handling and retry mechanisms.
+        A complete microservice architecture for a furniture e-commerce platform. Independent <strong>user, product, order, payment and notification</strong> services sit behind an <strong>API Gateway</strong>, with <strong>Eureka</strong> for service discovery and a <strong>Config Server</strong> for centralized configuration. Spins up with a single Docker Compose file.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
       </p>
-      <a href="https://github.com/Guru-Leo-Dev/orafin-integration">
+      <a href="https://github.com/Guru-Leo-Dev/Oakhaven">
         <img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/>
       </a>
     </td>
-    <td width="50%">
-      <h3>🔐 Full-Stack Auth App</h3>
+    <td width="50%" valign="top">
+      <h3>💬 FriendChat — Real-Time Chat Backend</h3>
       <p>
-        Production-ready authentication system with <strong>React + Spring Security + JWT</strong>. Features dark/light theme toggle, refresh token rotation, and role-based access control.
+        Production-style backend for an ephemeral messaging platform built on <strong>Spring Boot 3 + Java 21</strong>. Features raw <strong>WebSocket</strong> messaging, <strong>Google OAuth2 + JWT</strong> with refresh-token rotation and reuse detection, <strong>Redis</strong> presence, <strong>PostgreSQL + Flyway</strong>, S3 media uploads, and 24-hour auto-expiring messages.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
       </p>
-      <a href="https://github.com/Guru-Leo-Dev/fullstack-auth">
+      <a href="https://github.com/Guru-Leo-Dev/friendchat-backend">
         <img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/>
       </a>
     </td>
@@ -137,7 +145,7 @@ open_to     : Full-time roles · Freelance · AI/Backend collabs
   
 </div>
 <div align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guru-Leo-Dev&theme=tokyonight&hide_border=true&background=0d1117&ring=22d3ee&fire=ff6b6b&currStreakLabel=22d3ee" width="70%"/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guru-Leo-Dev&theme=tokyonight&hide_border=true&background=0d1117&ring=34d399&fire=fbbf24&currStreakLabel=34d399" width="70%"/> 
 </div>
 
 ---
@@ -146,12 +154,12 @@ open_to     : Full-time roles · Freelance · AI/Backend collabs
 
 ### 👋 Let's Build Something Extraordinary
 
-*Full-stack roots. Cloud-native mindset. AI-curious heart.*
+*Java roots. Microservice mindset. AI-curious heart.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guruprakash-leo/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_guruleo_/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Guru-Leo-Dev)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,50:065f46,100:022c22&height=120&section=footer" width="100%"/>
 
 </div>
