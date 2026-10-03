@@ -130,7 +130,7 @@ open_to     : Full-time roles · Freelance · AI/Backend collabs
 </table>
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -141,7 +141,7 @@ open_to     : Full-time roles · Freelance · AI/Backend collabs
 </div>
 
 ---
-
+-->
 <div align="center">
 
 ### 👋 Let's Build Something Extraordinary
